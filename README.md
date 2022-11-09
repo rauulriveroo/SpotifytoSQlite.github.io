@@ -1,6 +1,5 @@
 # SpotifytoSQlite.github.io
 
-RESUMEN
 En el trabajo realizado se ha creado un proyecto java en IntelliJ, el cuál traslada todos los álbumes y canciones de 5 artistas elegidos de la api de Spotify a una base de datos SQL.
 Dicho proyecto se ha dividido en 4 paquetes, api, controller, model y sqlite:
  En el paquete “api” se encuentra la clase SpotifyAccessor, la cual nos permite acceder a la web api de Spotify mediante el uso de la otra clase también implementada en dicho paquete, SpotifyAuthorization. 
